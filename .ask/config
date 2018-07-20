@@ -4,11 +4,11 @@
       "skill_id": "",
       "was_cloned": false,
       "merge": {
-        "skillManifest": {
+        "manifest": {
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "what_name_you_want_to_name_the_lambda"
+                "uri": "ask-custom-fact-default"
               }
             }
           }
